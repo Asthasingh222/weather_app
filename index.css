@@ -14,8 +14,8 @@ body {
   position: relative;
 }
 .container {
-  width: 70%;
-  max-width: 430px;
+  max-width: 400px;
+  max-height: 600px;
   background: linear-gradient(323deg, #e33d3dd6, #2ac9d5);
   color: #ffffff;
   margin: 100px auto 0;

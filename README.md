@@ -4,5 +4,5 @@ Tech stack: HTML | CSS | JavaScript
  https://asthasingh222.github.io/weather_app/
 
  ![image](https://github.com/Asthasingh222/weather_app/assets/77485251/e6f2ee62-92aa-4082-a614-e8d143a45d93)
-![image](https://github.com/Asthasingh222/weather_app/assets/77485251/0b772eaa-2e2c-47ca-ba72-9280109805bd)
-![image](https://github.com/Asthasingh222/weather_app/assets/77485251/87c435f3-f2b9-4f63-a61d-985e043e25b1)
+![image](https://github.com/Asthasingh222/weather_app/assets/77485251/01c7384c-2efd-404a-9bef-a646d8fd0954)
+![image](https://github.com/Asthasingh222/weather_app/assets/77485251/9b059eff-9a6f-452b-8dfe-ec7b0422a809)
